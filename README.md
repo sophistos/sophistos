@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sophistos
 - 👀 I’m interested in C# developement
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Webdevelopement
+- 💞️ I’m looking to collaborate on Databases
 - 📫 sophistos@hotmail.com
 
 <!---
